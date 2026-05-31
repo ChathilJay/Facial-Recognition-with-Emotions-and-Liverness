@@ -1,0 +1,9 @@
+{
+    "best_configuration": "Triplet ResNet18 + cosine",
+    "best_auc": 0.7975894213761789,
+    "best_threshold": 0.3363700807094574,
+    "best_tpr": 0.8297392983585452,
+    "best_fpr": 0.37488570557756784,
+    "classification_model_path": "D:\\Swinburne\\Year 4\\Semester 1\\Applied Machine Learning\\Project\\New\\models\\clf_model_best.pth",
+    "triplet_model_path": "D:\\Swinburne\\Year 4\\Semester 1\\Applied Machine Learning\\Project\\New\\models\\trip_model_final.pth"
+}
